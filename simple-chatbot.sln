@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SolutionFormat Version="1.0">
+  <Project Name="SimpleChatbot.Console" ProjectType="CSharp" Path="SimpleChatbot.Console\SimpleChatbot.Console.csproj" />
+  <Project Name="SimpleChatbot.API" ProjectType="CSharp" Path="SimpleChatbot.API\SimpleChatbot.API.csproj" />
+</SolutionFormat>
